@@ -1,0 +1,9 @@
+C:\Users\student\Desktop\Winforms\WinForms-Buttons\WindowsFormsButtons\WindowsFormsButtons\bin\Debug\WindowsFormsButtons.exe.config
+C:\Users\student\Desktop\Winforms\WinForms-Buttons\WindowsFormsButtons\WindowsFormsButtons\bin\Debug\WindowsFormsButtons.exe
+C:\Users\student\Desktop\Winforms\WinForms-Buttons\WindowsFormsButtons\WindowsFormsButtons\bin\Debug\WindowsFormsButtons.pdb
+C:\Users\student\Desktop\Winforms\WinForms-Buttons\WindowsFormsButtons\WindowsFormsButtons\obj\Debug\WindowsFormsButtons.Form1.resources
+C:\Users\student\Desktop\Winforms\WinForms-Buttons\WindowsFormsButtons\WindowsFormsButtons\obj\Debug\WindowsFormsButtons.Properties.Resources.resources
+C:\Users\student\Desktop\Winforms\WinForms-Buttons\WindowsFormsButtons\WindowsFormsButtons\obj\Debug\WindowsFormsButtons.csproj.GenerateResource.Cache
+C:\Users\student\Desktop\Winforms\WinForms-Buttons\WindowsFormsButtons\WindowsFormsButtons\obj\Debug\WindowsFormsButtons.exe
+C:\Users\student\Desktop\Winforms\WinForms-Buttons\WindowsFormsButtons\WindowsFormsButtons\obj\Debug\WindowsFormsButtons.pdb
+C:\Users\student\Desktop\Winforms\WinForms-Buttons\WindowsFormsButtons\WindowsFormsButtons\obj\Debug\WindowsFormsButtons.Form2.resources
